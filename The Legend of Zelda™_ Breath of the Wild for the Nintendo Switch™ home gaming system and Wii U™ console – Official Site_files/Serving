@@ -1,1 +1,1 @@
-bsResponse={uipv:"_1_16_0_0",sessionId:"5006209364663027984",scriptsPath:"http://ds.serving-sys.com/BurstingCachedScripts/",sync:!1,preServingTasks:[]};if(!1){var oneTagObj=new EBGVT.OneTag();oneTagObj._handleResponse(bsResponse);}
+bsResponse={uipv:"_1_16_0_0",sessionId:"2213905400822188904",scriptsPath:"http://ds.serving-sys.com/BurstingCachedScripts/",sync:!1,preServingTasks:[]};if(!1){var oneTagObj=new EBGVT.OneTag();oneTagObj._handleResponse(bsResponse);}
